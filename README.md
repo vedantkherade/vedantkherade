@@ -1,16 +1,99 @@
-## Hi there 👋
+<h1 align="left">Hi 🖐️, I'm Vedant Kherade</h1>
 
-<!--
-**vedantkherade/vedantkherade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">I am a Computer Engineer graduate from the University of Mumbai, skilled in leveraging modern web technologies to create responsive and engaging digital experiences. I am passionate about solving UI challenges, optimizing performance, and writing clean, maintainable code to deliver high-quality products.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vedantkherade.vedantkherade&left_text=Profile%20views"  />
+</div>
+
+###
+
+<h2 align="left">💻My Skills</h2>
+
+###
+
+<h4 align="left">⚙️ Programming Languages</h4>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+</div>
+
+###
+
+<h4 align="left">⚙️ Frontend development</h4>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<h4 align="left">⚙️ Tools & Technologies</h4>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+</div>
+
+###
+
+<h2 align="left">📊 GitHub Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vedantkherade&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<h2 align="left">🤝 Let’s Connect</h2>
+
+###
+
+<div align="center">
+  <a href="mailto:vedantkherade76@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
+  <a href="http://www.linkedin.com/in/vedant-kherade-9882802a3" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/vedantkherade_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  </a>
+</div>
+
+###
