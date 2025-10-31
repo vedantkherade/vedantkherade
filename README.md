@@ -16,7 +16,7 @@
 
 ###
 
-<h4 align="left">⚙️ Programming Languages</h4>
+<h3 align="left">⚙️ Programming Languages</h3>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h4 align="left">⚙️ Frontend development</h4>
+<h3 align="left">⚙️ Frontend development</h3>
 
 ###
 
@@ -54,7 +54,7 @@
 
 ###
 
-<h4 align="left">⚙️ Tools & Technologies</h4>
+<h3 align="left">⚙️ Tools & Technologies</h3>
 
 ###
 
