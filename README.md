@@ -23,8 +23,6 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="15" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
@@ -50,6 +48,20 @@
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<h3 align="left">⚙️ Databases & Backend Services</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
 </div>
 
 ###
@@ -89,7 +101,7 @@
   <a href="mailto:vedantkherade76@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
-  <a href="http://www.linkedin.com/in/vedant-kherade-9882802a3" target="_blank">
+  <a href="https://www.linkedin.com/in/vedantkherade/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/vedantkherade_/" target="_blank">
