@@ -68,7 +68,7 @@
 
 ###
 
-<h3 align="left">⚙️ Databases & Backend Services</h3>
+<h3 align="left">⚙️ Databases</h3>
 
 ###
 
